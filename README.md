@@ -1,5 +1,5 @@
 ### 网站域名
-**aigconline.net**
+[**aigconline.net**](http://aigconline.net/)
 
 ### 功能介绍
 主要功能有文生图，图生图及GPT对话，所有AI功能并非对接厂商API接口实现
