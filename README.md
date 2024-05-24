@@ -15,5 +15,11 @@
 | --------   | -----:  | :----:  |
 | NVIDIA GeForce RTX 4090     | 4 卡   |文生图/图生图   |
 | NVIDIA RTX A5000       |   16 卡 |GPT   |
+### 大语言模型
+| 模型名        | 型号|所属公司   |
+| --------   | -----:  | :----:  |
+| 通义千问     | Qwen/Qwen1.5-110B-Chat   |阿里   |
+| 零一万物     |   Yi-1.5-34B-Chat |零一万物   |
+| Llama 3     |   Meta-Llama-3-8B |Meta    |
 ### 体验交流群
 ![](images/qrcode.jpg)
