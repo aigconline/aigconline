@@ -25,6 +25,7 @@
 ### 五、图片识别功能
 ![](images/image_recognition1.png)
 ![](images/image_recognition2.png)
+![](images/image_recognition3.png)
 ### 六、体验交流群
 ![](images/qrcode.jpg)
 ## 七、Star History
