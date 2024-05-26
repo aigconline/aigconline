@@ -21,6 +21,9 @@
 | 通义千问     | Qwen/Qwen1.5-110B-Chat   |阿里   |
 | 零一万物     |   Yi-1.5-34B-Chat |零一万物   |
 | Llama 3     |   Meta-Llama-3-8B |Meta    |
+### 图片识别功能
+![](images/image_recognition1.png)
+![](images/image_recognition2.png)
 ### 体验交流群
 ![](images/qrcode.jpg)
 ## Star History
