@@ -11,10 +11,11 @@
 | stable-diffusion-webui       |   https://github.com/AUTOMATIC1111/stable-diffusion-webui.git   |文生图/图生图   |
 | ollama        |    https://github.com/ollama/ollama.git    | GPT  |
 ### 三、NVIDIA GPU型号及数量
-| 型号        | 数量   | 用途  |
-| :--------:   | :--------:  | :--------:  |
-| NVIDIA GeForce RTX 4090     | 4 卡   |文生图/图生图   |
-| NVIDIA RTX A5000       |   16 卡 |GPT   |
+| 型号        | 数量  |    用途     |
+| :--------:   |:---:|:---------:|
+| NVIDIA GeForce RTX 4090     | * 卡 |  文生图/图生图  |
+| NVIDIA RTX A5000       | * 卡 |    GPT    |
+| NVIDIA RTX A5000       | * 卡 | facechain |
 ### 四、大语言模型
 | 模型名        |              型号              | 所属公司 |
 | :--------:   |:----------------------------:|:----:|
